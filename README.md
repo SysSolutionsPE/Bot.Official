@@ -35,7 +35,7 @@
   
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/Mystic-termux) 
+[![Run on Repl.it](https://repl.it/badge/github.com/SysSolutionsPE/Bot.Official)](https://repl.it/github.com/SysSolutionsPE/Bot.Official) 
   
 ### `—◉ 🔰 ACTIVAR EN RENDER 🔰`
 
